@@ -373,7 +373,7 @@ header {
 /* Responsive Gallery */
 @media (max-width: 1024px) {
   .masonry-gallery {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .masonry-item.span-2 {
@@ -838,4 +838,5 @@ footer {
 
 .show {
   opacity: 1;
+
 }
